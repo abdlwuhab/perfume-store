@@ -1,0 +1,24 @@
+.testimonials {
+  text-align: center;
+  padding: 50px 20px;
+  background: #f9f9f9;
+}
+.reviews {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin-top: 20px;
+}
+.review {
+  background: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 250px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+.review span {
+  display: block;
+  margin-top: 10px;
+  font-weight: bold;
+  color: #555;
+}

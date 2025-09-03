@@ -1,0 +1,30 @@
+.cart {
+  padding: 20px;
+  border: 1px solid #eee;
+  border-radius: 10px;
+  background: #fff;
+  max-width: 400px;
+  margin: auto;
+}
+.cart h2 {
+  margin-bottom: 15px;
+}
+.cart-item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+.cart button {
+  margin-top: 15px;
+  width: 100%;
+  background: #f39c12;
+  border: none;
+  padding: 12px;
+  border-radius: 8px;
+  color: #fff;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.cart button:hover {
+  background: #d35400;
+}

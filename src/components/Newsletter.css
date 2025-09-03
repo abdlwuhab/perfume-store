@@ -1,0 +1,28 @@
+.newsletter {
+  text-align: center;
+  padding: 40px 20px;
+  background: #f39c12;
+  color: #fff;
+}
+.newsletter form {
+  margin-top: 20px;
+}
+.newsletter input {
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  width: 250px;
+  margin-right: 10px;
+}
+.newsletter button {
+  padding: 10px 15px;
+  border: none;
+  background: #111;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.newsletter button:hover {
+  background: #333;
+}

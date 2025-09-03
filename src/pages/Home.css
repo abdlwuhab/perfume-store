@@ -1,0 +1,12 @@
+.home-container {
+  background: #fafafa;
+  padding: 0;
+  margin: 0;
+}
+
+.home-container h1,
+.home-container h2 {
+  font-family: "Cairo", sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
